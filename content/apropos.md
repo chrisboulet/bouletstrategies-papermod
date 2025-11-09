@@ -27,11 +27,11 @@ J'ai vécu chaque étape de la maturité technologique d'une entreprise et du se
 - 🏢 **PME manufacturières** (Optel Vision, Sanimétal, Simard Suspensions, Macpek, Roski, Vivier Pharma)
 - 📦 **Distribution** (FLB Solutions Alimentaires - 60M$+ revenus)
 
-**Dernière étape** : Directeur Innovation et Technologies chez **FLB Solutions Alimentaires** (jusqu'en novembre 2025). J'y ai mené la transformation digitale complète, adopté l'IA générative à l'échelle, et modernisé l'infrastructure technologique critique.
+**Dernière étape** : Directeur Innovation et Technologies chez **FLB Solutions Alimentaires** (jusqu'en novembre 2025). J'y ai mené plusieurs projets d'innovation et de transformations, adopté l'IA générative à l'échelle, et modernisé l'infrastructure technologique critique.
 
-**Avant FLB** : Directeur de Pratique Infonuagique chez Facilité Informatique (gestion d'équipe de consultants cloud pour tout le Québec), et Architecte Intégrateur pour des projets d'envergure gouvernementale (architecture d'entreprise du secteur Santé, migration Windows 10 pour SSQ, etc.).
+**Avant FLB** : Directeur de Pratique Infonuagique chez ESI Technologiues (gestion d'équipe de consultants cloud pour tout le Québec), et Architecte Intégrateur pour des projets d'envergure gouvernementale (architecture d'entreprise du secteur Santé, migration Windows et 365 pour SSQ, etc.).
 
-**Aujourd'hui** : J'ai quitté FLB en novembre 2025 pour lancer **Boulet Stratégies TI** et mettre cette expertise au service de PME québécoises qui n'ont pas les moyens d'embaucher un VP TI à 175K$/an.
+**Aujourd'hui** : J'ai quitté FLB en novembre 2025 pour lancer **Boulet Stratégies TI** et mettre cette expertise au service de PME québécoises qui n'ont pas les moyens d'embaucher un VP TI à temps complet.
 
 ---
 
@@ -49,7 +49,7 @@ C'est ce que je fais depuis 28 ans.
 
 **Mon talent #2** : Transformer la paralysie technologique en momentum.
 
-Vos projets tech traînent depuis 6 mois ? Vos consultants parlent mais rien n'avance ? **Je débloque.**
+Vos projets technos traînent depuis 6 mois ? Vos consultants parlent mais rien n'avance ? **Je débloque.**
 
 Je ne livre pas 50 slides PowerPoint. Je guide vos équipes jusqu'aux résultats mesurables :
 - ✅ Time-to-market réduit de 40%
@@ -85,14 +85,14 @@ Ce que ça signifie pour vous :
 
 ---
 
-## Pourquoi J'Ai Lancé Boulet Stratégies TI
+## Pourquoi J'ai lancé Boulet Stratégies TI
 
-Après 28 ans comme VP/CTO à temps plein, j'ai réalisé quelque chose :
+Après 28 ans comme consultant, j'ai réalisé quelque chose :
 
-**La plupart des PME québécoises de 50M$+ n'ont pas besoin d'un CTO à temps plein à 175K$/an.**
+**La plupart des PME québécoises de 50M$+ n'ont pas besoin d'un CTO à temps plein au gros salaire.**
 
-Elles ont besoin de **15 heures par mois de guidance stratégique de calibre** pour :
-- Prendre les bonnes décisions tech
+Elles ont besoin de **10 à 15 heures par mois de guidance stratégique de calibre** pour :
+- Prendre les bonnes décisions technos
 - Structurer leurs équipes
 - Négocier avec les bons fournisseurs
 - Débloquer les projets paralysés
@@ -133,7 +133,6 @@ Pas de bullshit. Pas de vente forcée.
 ### Technologies
 
 ✅ **Cloud & Infrastructure** (AWS, Azure, Google Cloud, migrations)
-✅ **DevOps & Automatisation** (CI/CD, conteneurisation, orchestration)
 ✅ **Architecture Logicielle** (microservices, APIs, intégrations)
 ✅ **Intelligence Artificielle** (adoption pragmatique, pas de buzzwords)
 ✅ **Cybersécurité** (risk assessment, compliance, best practices)
@@ -146,7 +145,7 @@ Pas de bullshit. Pas de vente forcée.
 
 **Basé à Québec** : Je travaille principalement avec des PME québécoises, en français.
 
-**LinkedIn** : [linkedin.com/in/christianboulet](https://linkedin.com/in/christianboulet)
+**LinkedIn** : [[linkedin.com/in/christianboulet](https://www.linkedin.com/in/chrisboulet/)
 
 ---
 
@@ -154,7 +153,7 @@ Pas de bullshit. Pas de vente forcée.
 
 **Vous avez des projets tech paralysés ?**
 **Vos budgets explosent sans résultats tangibles ?**
-**Vous hésitez à embaucher un VP TI à 175K$/an ?**
+**Vous hésitez à embaucher un VP TI au gros salaire ?**
 
 Discutons. Première rencontre de 30 minutes gratuite, sans engagement.
 
