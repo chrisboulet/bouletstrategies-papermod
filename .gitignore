@@ -1,0 +1,29 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Hugo binary (use system install or download separately)
+hugo.exe
+hugo
+hugo_*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if using npm)
+node_modules/
+
+# Temporary files
+*.log
+tmp/

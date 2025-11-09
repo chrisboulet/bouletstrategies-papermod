@@ -1,0 +1,60 @@
+baseURL = "https://bouletstrategies.ca/"
+languageCode = "fr"
+title = "Boulet Stratégies TI"
+theme = "PaperMod"
+
+[params]
+  description = "Direction technologique fractionnée pour PME québécoises ambitieuses"
+  author = "Christian Boulet"
+
+  # PaperMod settings
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "Christian Boulet - Fractional CTO"
+    Content = "**Direction technologique fractionnée pour PME québécoises.** 28 ans à livrer des résultats tech concrets. Zéro jargon. 100% action."
+
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/christianboulet"
+
+  [[params.socialIcons]]
+    name = "Email"
+    url = "mailto:christian@bouletstrategies.ca"
+
+[[menu.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 10
+
+[[menu.main]]
+  name = "Tarifs"
+  url = "/tarifs/"
+  weight = 20
+
+[[menu.main]]
+  name = "À Propos"
+  url = "/apropos/"
+  weight = 30
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 40
+
+[markup.goldmark.renderer]
+  unsafe = true
