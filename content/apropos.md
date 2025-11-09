@@ -12,7 +12,7 @@ description: "Christian Boulet - 28 ans d'expérience technologique, fondateur d
 
 **52 ans. 28 ans dans la technologie. Zéro jargon. 100% résultats.**
 
-J'ai passé les 28 dernières années à **vivre de l'intérieur** les défis que vous affrontez aujourd'hui. Pas comme consultant externe. Comme **VP Technologie, CTO, et leader d'équipes techniques** dans des organisations en croissance.
+J'ai passé les 28 dernières années à **vivre de l'intérieur** les défis que vous affrontez aujourd'hui. Pas comme consultant externe. Comme **Directeur TI, Architecte Intégrateur, et leader d'équipes techniques** dans des organisations publiques et privées.
 
 Je ne vous vends pas de la tech. **Je débloque vos projets paralysés** et je livre des résultats d'affaires mesurables.
 
@@ -22,12 +22,14 @@ Je ne vous vends pas de la tech. **Je débloque vos projets paralysés** et je l
 
 ### 28 Ans d'Expérience Terrain (Pas de Théorie)
 
-J'ai vécu chaque étape de la maturité technologique d'une entreprise :
-- 🚀 Startup en hypercroissance (chaos organisé)
-- ⚡ Scale-up (structuration rapide)
-- 🏢 PME mature (optimisation et transformation)
+J'ai vécu chaque étape de la maturité technologique d'une entreprise et du secteur public :
+- 🏛️ **Gouvernement du Québec** (CSPQ, MSSS, MAPAQ, Revenu Québec, MRN, INSPQ, CNESST)
+- 🏢 **PME manufacturières** (Optel Vision, Sanimétal, Simard Suspensions, Macpek, Roski, Vivier Pharma)
+- 📦 **Distribution** (FLB Solutions Alimentaires - 400M$+ revenus)
 
-**Dernière étape** : VP Technologie chez FLB (Distribution, 400M$+ revenue) pendant plusieurs années. J'y ai supervisé des transformations tech majeures, structuré des équipes DevOps, et négocié des millions de dollars en contrats technologiques.
+**Dernière étape** : Directeur Innovation et Technologies chez **FLB Solutions Alimentaires** (jusqu'en novembre 2024). J'y ai mené la transformation digitale complète, adopté l'IA générative à l'échelle, et modernisé l'infrastructure technologique critique.
+
+**Avant FLB** : Directeur de Pratique Infonuagique chez Facilité Informatique (gestion d'équipe de consultants cloud pour tout le Québec), et Architecte Intégrateur pour des projets d'envergure gouvernementale (architecture d'entreprise du secteur Santé, migration Windows 10 pour SSQ, etc.).
 
 **Aujourd'hui** : J'ai quitté FLB en novembre 2024 pour lancer **Boulet Stratégies TI** et mettre cette expertise au service de PME québécoises qui n'ont pas les moyens d'embaucher un VP TI à 175K$/an.
 
