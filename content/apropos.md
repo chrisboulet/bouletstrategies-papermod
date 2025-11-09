@@ -25,13 +25,13 @@ Je ne vous vends pas de la tech. **Je débloque vos projets paralysés** et je l
 J'ai vécu chaque étape de la maturité technologique d'une entreprise et du secteur public :
 - 🏛️ **Gouvernement du Québec** (CSPQ, MSSS, MAPAQ, Revenu Québec, MRN, INSPQ, CNESST)
 - 🏢 **PME manufacturières** (Optel Vision, Sanimétal, Simard Suspensions, Macpek, Roski, Vivier Pharma)
-- 📦 **Distribution** (FLB Solutions Alimentaires - 400M$+ revenus)
+- 📦 **Distribution** (FLB Solutions Alimentaires - 60M$+ revenus)
 
-**Dernière étape** : Directeur Innovation et Technologies chez **FLB Solutions Alimentaires** (jusqu'en novembre 2024). J'y ai mené la transformation digitale complète, adopté l'IA générative à l'échelle, et modernisé l'infrastructure technologique critique.
+**Dernière étape** : Directeur Innovation et Technologies chez **FLB Solutions Alimentaires** (jusqu'en novembre 2025). J'y ai mené la transformation digitale complète, adopté l'IA générative à l'échelle, et modernisé l'infrastructure technologique critique.
 
 **Avant FLB** : Directeur de Pratique Infonuagique chez Facilité Informatique (gestion d'équipe de consultants cloud pour tout le Québec), et Architecte Intégrateur pour des projets d'envergure gouvernementale (architecture d'entreprise du secteur Santé, migration Windows 10 pour SSQ, etc.).
 
-**Aujourd'hui** : J'ai quitté FLB en novembre 2024 pour lancer **Boulet Stratégies TI** et mettre cette expertise au service de PME québécoises qui n'ont pas les moyens d'embaucher un VP TI à 175K$/an.
+**Aujourd'hui** : J'ai quitté FLB en novembre 2025 pour lancer **Boulet Stratégies TI** et mettre cette expertise au service de PME québécoises qui n'ont pas les moyens d'embaucher un VP TI à 175K$/an.
 
 ---
 
