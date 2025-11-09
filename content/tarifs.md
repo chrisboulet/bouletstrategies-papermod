@@ -11,14 +11,14 @@ Vous payez pour des résultats mesurables, pas pour du temps de siège. Trois fo
 
 ---
 
-## 🔍 ÉCLAIREUR — Audit et Exploration Stratégique
+## ÉCLAIREUR — Audit et Exploration Stratégique
 
 ### Pour Qui ?
 
-✅ **Audits stratégiques ciblés** (architecture, sécurité, dette technique)
-✅ **Évaluations technologiques pré-acquisition**
-✅ **Projets de transformation à phases multiples**
-✅ **Entreprises testant le modèle fractional**
+- **Audits stratégiques ciblés** (architecture, sécurité, dette technique)
+- **Évaluations technologiques pré-acquisition**
+- **Projets de transformation à phases multiples**
+- **Entreprises testant le modèle fractional**
 
 ### Qu'est-ce Qui Est Inclus ?
 
@@ -46,23 +46,23 @@ Vous savez exactement ce que vous payez avant de commencer. Aucune surprise.
 
 ---
 
-## 🔑 ARCHITECTE — Accompagnement Mensuel Récurrent
+## ARCHITECTE — Accompagnement Mensuel Récurrent
 
 ### Pour Qui ?
 
-✅ **PME qui veulent un CTO stratégique accessible**
-✅ **Entreprises avec projets tech continus**
-✅ **Organisations cherchant un budget TI prévisible**
-✅ **Dirigeants voulant une relation stratégique long terme**
+- **PME qui veulent un CTO stratégique accessible**
+- **Entreprises avec projets tech continus**
+- **Organisations cherchant un budget TI prévisible**
+- **Dirigeants voulant une relation stratégique long terme**
 
 ### Qu'est-ce Qui Est Inclus ?
 
-✅ **15 heures garanties chaque mois** (180h/an)
-✅ **Heures non utilisées cumulables sur 12 mois** (aucune perte)
-✅ **Relation continue** — je connais votre contexte d'affaires en profondeur
-✅ **Priorité de planification** dans mon agenda
-✅ **Budget TI prévisible** pour votre CFO
-✅ **Service maintenu pendant mes congés** (heures s'accumulent)
+- **15 heures garanties chaque mois** (180h/an)
+- **Heures non utilisées cumulables sur 12 mois** (aucune perte)
+- **Relation continue** — je connais votre contexte d'affaires en profondeur
+- **Priorité de planification** dans mon agenda
+- **Budget TI prévisible** pour votre CFO
+- **Service maintenu pendant mes congés** (heures s'accumulent)
 
 ### Comment Ça Fonctionne ?
 
@@ -80,23 +80,23 @@ Vous savez exactement ce que vous payez avant de commencer. Aucune surprise.
 
 ---
 
-## 🤝 PARTENAIRE — Votre VP TI 1 Jour/Semaine
+## PARTENAIRE — Votre VP TI 1 Jour/Semaine
 
 ### Pour Qui ?
 
-✅ **PME ambitieuses avec croissance rapide**
-✅ **Organisations nécessitant présence stratégique régulière**
-✅ **Entreprises avec comités de direction hebdomadaires**
-✅ **Dirigeants cherchant un vrai partenaire tech long terme**
+- **PME ambitieuses avec croissance rapide**
+- **Organisations nécessitant présence stratégique régulière**
+- **Entreprises avec comités de direction hebdomadaires**
+- **Dirigeants cherchant un vrai partenaire tech long terme**
 
 ### Qu'est-ce Qui Est Inclus ?
 
-✅ **1 jour complet/semaine bloqué toute l'année** (ex: tous vos mardis)
-✅ **Participation aux comités de direction** et gouvernance
-✅ **Connaissance intime** de votre entreprise et culture
-✅ **Accès prioritaire** pour situations d'urgence
-✅ **Veille cybersécurité et technologique** proactive
-✅ **Coaching continu** de vos équipes internes
+- **1 jour complet/semaine bloqué toute l'année** (ex: tous vos mardis)
+- **Participation aux comités de direction** et gouvernance
+- **Connaissance intime** de votre entreprise et culture
+- **Accès prioritaire** pour situations d'urgence
+- **Veille cybersécurité et technologique** proactive
+- **Coaching continu** de vos équipes internes
 
 ### Comment Ça Fonctionne ?
 
@@ -114,7 +114,7 @@ Vous savez exactement ce que vous payez avant de commencer. Aucune surprise.
 
 ---
 
-## 💰 Comparaison des Modèles
+## Comparaison des Modèles
 
 | Critère | ÉCLAIREUR | ARCHITECTE | PARTENAIRE |
 |---------|-----------|------------|------------|
@@ -128,7 +128,7 @@ Vous savez exactement ce que vous payez avant de commencer. Aucune surprise.
 
 ---
 
-## ❓ Questions Fréquentes
+## Questions Fréquentes
 
 ### Pourquoi pas de prix affichés publiquement ?
 

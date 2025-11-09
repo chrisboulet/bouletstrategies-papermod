@@ -23,9 +23,9 @@ Je ne vous vends pas de la tech. **Je débloque vos projets paralysés** et je l
 ### 28 Ans d'Expérience Terrain (Pas de Théorie)
 
 J'ai vécu chaque étape de la maturité technologique d'une entreprise et du secteur public :
-- 🏛️ **Gouvernement du Québec** (CSPQ, MSSS, MAPAQ, Revenu Québec, MRN, INSPQ, CNESST)
-- 🏢 **PME manufacturières** (Optel Vision, Sanimétal, Simard Suspensions, Macpek, Roski, Vivier Pharma)
-- 📦 **Distribution** (FLB Solutions Alimentaires - 60M$+ revenus)
+- **Gouvernement du Québec** (CSPQ, MSSS, MAPAQ, Revenu Québec, MRN, INSPQ, CNESST)
+- **PME manufacturières** (Optel Vision, Sanimétal, Simard Suspensions, Macpek, Roski, Vivier Pharma)
+- **Distribution** (FLB Solutions Alimentaires - 60M$+ revenus)
 
 **Dernière étape** : Directeur Innovation et Technologies chez **FLB Solutions Alimentaires** (jusqu'en novembre 2025). J'y ai mené plusieurs projets d'innovation et de transformations, adopté l'IA générative à l'échelle, et modernisé l'infrastructure technologique critique.
 
@@ -52,9 +52,9 @@ C'est ce que je fais depuis 28 ans.
 Vos projets technos traînent depuis 6 mois ? Vos consultants parlent mais rien n'avance ? **Je débloque.**
 
 Je ne livre pas 50 slides PowerPoint. Je guide vos équipes jusqu'aux résultats mesurables :
-- ✅ Time-to-market réduit de 40%
-- ✅ Budgets tech alignés sur vos objectifs d'affaires
-- ✅ Migrations cloud complétées en semaines, pas en mois
+- Time-to-market réduit de 40%
+- Budgets tech alignés sur vos objectifs d'affaires
+- Migrations cloud complétées en semaines, pas en mois
 
 ### 3. J'ai Vécu Vos Défis de l'Intérieur
 
@@ -74,14 +74,14 @@ La différence ? Je l'ai fait pendant 28 ans, dans plusieurs industries, avec de
 
 Ce que ça signifie pour vous :
 
-✅ **Confident mais pas arrogant** : Je vous dis franchement ce que je pense, sans détour
-✅ **Résistant à la pression** : Vos deadlines serrés et vos crises tech ne me stressent pas
-✅ **Excellent en négociation** : J'ai négocié des millions de dollars en contrats tech, je sais défendre vos intérêts
-✅ **Flexible et adaptable** : Je m'ajuste rapidement à votre contexte, pas besoin de 3 mois d'onboarding
+- **Confident mais pas arrogant** : Je vous dis franchement ce que je pense, sans détour
+- **Résistant à la pression** : Vos deadlines serrés et vos crises tech ne me stressent pas
+- **Excellent en négociation** : J'ai négocié des millions de dollars en contrats tech, je sais défendre vos intérêts
+- **Flexible et adaptable** : Je m'ajuste rapidement à votre contexte, pas besoin de 3 mois d'onboarding
 
 **Working Genius (Patrick Lencioni)** :
-- 🎯 **Genius** : Enablement (débloquer les équipes) + Invention (créer des solutions originales)
-- ⚡ **Compétence** : Galvanizing (mobiliser) + Discernment (évaluation critique)
+- **Genius** : Enablement (débloquer les équipes) + Invention (créer des solutions originales)
+- **Compétence** : Galvanizing (mobiliser) + Discernment (évaluation critique)
 
 ---
 
@@ -110,10 +110,10 @@ Je parle en langue d'affaires. ROI, risques, coûts, timeline. Pas en Docker, Ku
 
 **2. Résultats Mesurables**
 Je ne livre pas de rapports. Je livre des résultats :
-- Projets débloqués ✅
-- Budgets optimisés ✅
-- Équipes structurées ✅
-- Time-to-market réduit ✅
+- Projets débloqués
+- Budgets optimisés
+- Équipes structurées
+- Time-to-market réduit
 
 **3. Franchise Totale**
 Si je ne peux pas vous aider, je vous le dis. Si une décision est risquée, je vous le dis. Si un fournisseur vous arnaque, je vous le dis.
@@ -126,16 +126,16 @@ Pas de bullshit. Pas de vente forcée.
 
 ### Industries
 
-✅ **Distribution** (supply chain, ERP, e-commerce)
-✅ **Manufacturier** (automation, IoT, systèmes de production)
-✅ **Santé** (compliance, sécurité, HIPAA/PIPEDA)
+- **Distribution** (supply chain, ERP, e-commerce)
+- **Manufacturier** (automation, IoT, systèmes de production)
+- **Santé** (compliance, sécurité, HIPAA/PIPEDA)
 
 ### Technologies
 
-✅ **Cloud & Infrastructure** (AWS, Azure, Google Cloud, migrations)
-✅ **Architecture Logicielle** (microservices, APIs, intégrations)
-✅ **Intelligence Artificielle** (adoption pragmatique, pas de buzzwords)
-✅ **Cybersécurité** (risk assessment, compliance, best practices)
+- **Cloud & Infrastructure** (AWS, Azure, Google Cloud, migrations)
+- **Architecture Logicielle** (microservices, APIs, intégrations)
+- **Intelligence Artificielle** (adoption pragmatique, pas de buzzwords)
+- **Cybersécurité** (risk assessment, compliance, best practices)
 
 ---
 

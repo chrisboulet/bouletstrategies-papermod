@@ -27,16 +27,16 @@ Trop d'options, trop de vendeurs, trop de promesses. Vous êtes paralysé par le
 
 ## Comment je règle ça
 
-- ✅ Je traduis la techno en langage d'affaires
-- ✅ Je priorise selon l'impact financier, pas la mode techno
-- ✅ Je forme votre équipe au lieu de créer de la dépendance
-- ✅ 28 ans à livrer des résultats tech concrets
+- Je traduis la techno en langage d'affaires
+- Je priorise selon l'impact financier, pas la mode techno
+- Je forme votre équipe au lieu de créer de la dépendance
+- 28 ans à livrer des résultats tech concrets
 
 ---
 
 ## Comment je travaille
 
-### 🔍 ÉCLAIREUR
+### ÉCLAIREUR
 *Clarifiez vos choix technologiques en 4 semaines*
 
 **Pour qui:** Vous avez un projet majeur qui démarre ou une décision technologique importante à prendre
@@ -47,7 +47,7 @@ Trop d'options, trop de vendeurs, trop de promesses. Vous êtes paralysé par le
 
 ---
 
-### 🏗️ ARCHITECTE
+### ARCHITECTE
 *Votre conseiller stratégique au quotidien*
 
 **Pour qui:** Vous avez besoin de guidance continue sans engagement temps plein
@@ -58,7 +58,7 @@ Trop d'options, trop de vendeurs, trop de promesses. Vous êtes paralysé par le
 
 ---
 
-### 🤝 PARTENAIRE STRATÉGIQUE
+### PARTENAIRE STRATÉGIQUE
 *Votre VP TI un jour par semaine, toute l'année*
 
 **Pour qui:** Vous voulez un leader techno permanent à votre comité de direction
@@ -88,9 +88,9 @@ Fondateur, Boulet Stratégies TI
 28 ans à livrer des résultats tech concrets
 Ex-Directeur Innovation, FLB Solutions Alimentaires
 
-📧 christian@bouletstrategies.ca
-🔗 [LinkedIn](https://www.linkedin.com/in/christianboulet)
-📍 Québec, Canada
+Email: christian@bouletstrategies.ca
+LinkedIn: [linkedin.com/in/chrisboulet](https://www.linkedin.com/in/chrisboulet)
+Localisation: Québec, Canada
 
 ---
 

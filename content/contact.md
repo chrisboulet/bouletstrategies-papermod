@@ -9,7 +9,7 @@ description: "Discutons de vos défis technologiques. Première rencontre de 30 
 
 ---
 
-## 📅 Réserver un Appel (30 Min Gratuit)
+## Réserver un Appel (30 Min Gratuit)
 
 **[→ Réserver sur Calendly](https://calendly.com/christian-bouletstrategies)**
 
@@ -17,7 +17,7 @@ Choisissez le créneau qui vous convient directement dans mon agenda.
 
 ---
 
-## 📧 Ou Contactez-Moi Directement
+## Ou Contactez-Moi Directement
 
 **Email** : [christian@bouletstrategies.ca](mailto:christian@bouletstrategies.ca)
 
@@ -25,22 +25,22 @@ Choisissez le créneau qui vous convient directement dans mon agenda.
 
 ---
 
-## 🤔 Avant Notre Appel
+## Avant Notre Appel
 
 Pour maximiser notre temps ensemble, réfléchissez à :
 
-✅ **Quel est votre défi tech #1 actuel ?**
-(Ex: Projet bloqué depuis 6 mois, budget qui explose, manque de leadership tech)
+- **Quel est votre défi tech #1 actuel ?**
+  (Ex: Projet bloqué depuis 6 mois, budget qui explose, manque de leadership tech)
 
-✅ **Quel résultat mesurable cherchez-vous ?**
-(Ex: Réduire time-to-market de 40%, structurer équipe DevOps, préparer due diligence technique)
+- **Quel résultat mesurable cherchez-vous ?**
+  (Ex: Réduire time-to-market de 40%, structurer équipe DevOps, préparer due diligence technique)
 
-✅ **Quel est votre timeline ?**
-(Ex: Besoin immédiat, 3 mois, planification 2026)
+- **Quel est votre timeline ?**
+  (Ex: Besoin immédiat, 3 mois, planification 2026)
 
 ---
 
-## 💼 Ce Qui Se Passe Lors de Notre Premier Appel
+## Ce Qui Se Passe Lors de Notre Premier Appel
 
 1. **Compréhension de votre situation** (10 min)
    Vos défis tech actuels, votre contexte d'affaires, vos ambitions
@@ -56,7 +56,7 @@ Pour maximiser notre temps ensemble, réfléchissez à :
 
 ---
 
-## 📍 Basé à Québec
+## Basé à Québec
 
 Je travaille principalement avec des PME québécoises de 50M$+ en revenue dans les secteurs de la distribution, manufacturier et santé.
 

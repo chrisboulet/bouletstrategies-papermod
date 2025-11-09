@@ -9,14 +9,14 @@ Un Fractional CTO vous offre le même niveau de guidance stratégique qu'un CTO 
 
 ---
 
-## <a name="strategie"></a>🎯 1. Stratégie Technologique Alignée aux Affaires
+## <a name="strategie"></a>1. Stratégie Technologique Alignée aux Affaires
 
 ### Ce Que Vous Obtenez
 
-✅ **Roadmap technologique 12-18 mois** claire et priorisée
-✅ **Élimination des dépenses tech** qui ne servent pas vos objectifs d'affaires
-✅ **Évaluation objective des fournisseurs** et négociation de contrats
-✅ **Préparation de la documentation** pour acquisition ou fusion (due diligence technique)
+- **Roadmap technologique 12-18 mois** claire et priorisée
+- **Élimination des dépenses tech** qui ne servent pas vos objectifs d'affaires
+- **Évaluation objective des fournisseurs** et négociation de contrats
+- **Préparation de la documentation** pour acquisition ou fusion (due diligence technique)
 
 ### Résultat Mesurable
 
@@ -31,14 +31,14 @@ Un Fractional CTO vous offre le même niveau de guidance stratégique qu'un CTO 
 
 ---
 
-## <a name="transformation"></a>⚡ 2. Transformation Opérationnelle et Efficacité
+## <a name="transformation"></a>2. Transformation Opérationnelle et Efficacité
 
 ### Ce Que Vous Obtenez
 
-✅ **Implémentation de pratiques modernes** (automatisation, CI/CD, DevOps)
-✅ **Réduction de la dette technique** qui ralentit vos équipes
-✅ **Supervision de migrations critiques** (cloud, systèmes ERP, infrastructures)
-✅ **Processus de livraison** plus rapides et plus fiables
+- **Implémentation de pratiques modernes** (automatisation, CI/CD, DevOps)
+- **Réduction de la dette technique** qui ralentit vos équipes
+- **Supervision de migrations critiques** (cloud, systèmes ERP, infrastructures)
+- **Processus de livraison** plus rapides et plus fiables
 
 ### Résultat Mesurable
 
@@ -53,14 +53,14 @@ Un Fractional CTO vous offre le même niveau de guidance stratégique qu'un CTO 
 
 ---
 
-## <a name="equipes"></a>👥 3. Construction d'Équipes Performantes
+## <a name="equipes"></a>3. Construction d'Équipes Performantes
 
 ### Ce Que Vous Obtenez
 
-✅ **Recrutement de talents tech de calibre** (développeurs, architectes, leads)
-✅ **Mentorat de vos leaders technologiques juniors**
-✅ **Définition de structures d'équipe claires** (organigrammes, RACI)
-✅ **Culture tech qui attire et retient** les meilleurs
+- **Recrutement de talents tech de calibre** (développeurs, architectes, leads)
+- **Mentorat de vos leaders technologiques juniors**
+- **Définition de structures d'équipe claires** (organigrammes, RACI)
+- **Culture tech qui attire et retient** les meilleurs
 
 ### Résultat Mesurable
 
@@ -75,14 +75,14 @@ Un Fractional CTO vous offre le même niveau de guidance stratégique qu'un CTO 
 
 ---
 
-## <a name="innovation"></a>🚀 4. Innovation et Avantage Concurrentiel
+## <a name="innovation"></a>4. Innovation et Avantage Concurrentiel
 
 ### Ce Que Vous Obtenez
 
-✅ **Supervision du développement de nouveaux produits**
-✅ **Évaluation et intégration de technologies émergentes** (IA, automation, cloud)
-✅ **Création d'avantages compétitifs** par adoption technologique intelligente
-✅ **Prototypes rapides** pour validation de concepts
+- **Supervision du développement de nouveaux produits**
+- **Évaluation et intégration de technologies émergentes** (IA, automation, cloud)
+- **Création d'avantages compétitifs** par adoption technologique intelligente
+- **Prototypes rapides** pour validation de concepts
 
 ### Résultat Mesurable
 
@@ -99,7 +99,7 @@ Un Fractional CTO vous offre le même niveau de guidance stratégique qu'un CTO 
 
 ## 3 Modèles d'Engagement
 
-### 🔍 ÉCLAIREUR — Audit et Exploration Stratégique
+### ÉCLAIREUR — Audit et Exploration Stratégique
 
 **Idéal pour** :
 - Audits stratégiques ciblés (architecture, sécurité, dette technique)
@@ -111,29 +111,29 @@ Un Fractional CTO vous offre le même niveau de guidance stratégique qu'un CTO 
 
 ---
 
-### 🔑 ARCHITECTE — Accompagnement Mensuel Récurrent
+### ARCHITECTE — Accompagnement Mensuel Récurrent
 
 **Ce qui est inclus** :
-- ✅ 15 heures garanties chaque mois (180h/an)
-- ✅ Heures non utilisées cumulables sur 12 mois (aucune perte)
-- ✅ Relation continue — je connais votre contexte d'affaires
-- ✅ Priorité de planification dans mon agenda
-- ✅ Budget TI prévisible pour votre CFO
-- ✅ Service maintenu pendant mes congés (heures s'accumulent)
+- 15 heures garanties chaque mois (180h/an)
+- Heures non utilisées cumulables sur 12 mois (aucune perte)
+- Relation continue — je connais votre contexte d'affaires
+- Priorité de planification dans mon agenda
+- Budget TI prévisible pour votre CFO
+- Service maintenu pendant mes congés (heures s'accumulent)
 
 **Facturation** : Mensuelle (1er de chaque mois) — Net 15 jours
 
 ---
 
-### 🤝 PARTENAIRE — Votre VP TI 1 Jour/Semaine
+### PARTENAIRE — Votre VP TI 1 Jour/Semaine
 
 **Ce qui est inclus** :
-- ✅ 1 jour complet/semaine bloqué toute l'année (ex: tous vos mardis)
-- ✅ Participation aux comités de direction et gouvernance
-- ✅ Connaissance intime de votre entreprise et culture
-- ✅ Accès prioritaire pour situations d'urgence
-- ✅ Veille cybersécurité et technologique proactive
-- ✅ Coaching continu de vos équipes internes
+- 1 jour complet/semaine bloqué toute l'année (ex: tous vos mardis)
+- Participation aux comités de direction et gouvernance
+- Connaissance intime de votre entreprise et culture
+- Accès prioritaire pour situations d'urgence
+- Veille cybersécurité et technologique proactive
+- Coaching continu de vos équipes internes
 
 **Facturation** : Hebdomadaire (chaque vendredi) — Net 5 jours
 
