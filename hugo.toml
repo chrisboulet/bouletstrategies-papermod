@@ -24,13 +24,9 @@ theme = "PaperMod"
   showtoc = false
   tocopen = false
 
-  [params.homeInfoParams]
-    Title = "Christian Boulet - Fractional CTO"
-    Content = "**Direction technologique fractionnée pour PME québécoises.** 28 ans à livrer des résultats tech concrets. Zéro jargon. 100% action."
-
   [[params.socialIcons]]
     name = "LinkedIn"
-    url = "https://linkedin.com/in/christianboulet"
+    url = "https://www.linkedin.com/in/chrisboulet/"
 
   [[params.socialIcons]]
     name = "Email"
