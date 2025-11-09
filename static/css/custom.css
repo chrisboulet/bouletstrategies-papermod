@@ -1,0 +1,443 @@
+/*
+ * Boulet Stratégies TI - Custom Theme
+ * Inspired by modern dark design with amber accents
+ * Based on Gemini-generated design
+ */
+
+/* === COLOR PALETTE === */
+:root {
+  /* Backgrounds */
+  --bg-primary: #0f172a;      /* slate-900 */
+  --bg-secondary: #020617;    /* slate-950 */
+  --bg-card: rgba(30, 41, 59, 0.5); /* slate-800 with 50% opacity */
+
+  /* Accents */
+  --accent-primary: #fbbf24;  /* amber-400 */
+  --accent-hover: #f59e0b;    /* amber-500 */
+  --accent-green: #22c55e;    /* green-500 */
+  --accent-cyan: #06b6d4;     /* cyan-400 */
+
+  /* Text */
+  --text-primary: #ffffff;
+  --text-secondary: #cbd5e1;  /* slate-300 */
+  --text-tertiary: #94a3b8;   /* slate-400 */
+  --text-muted: #64748b;      /* slate-500 */
+
+  /* Borders */
+  --border-color: #334155;    /* slate-700 */
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+}
+
+/* === GLOBAL OVERRIDES === */
+body {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-secondary) !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', sans-serif;
+}
+
+/* Main content wrapper */
+#content {
+  background-color: var(--bg-primary);
+}
+
+/* === HEADER === */
+header.header {
+  background-color: rgba(15, 23, 42, 0.7) !important; /* slate-900 with 70% opacity */
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.logo,
+.logo a {
+  color: var(--text-primary) !important;
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 0.05em;
+}
+
+.logo a:hover {
+  color: var(--accent-primary) !important;
+  transition: color 0.3s ease;
+}
+
+/* Menu items */
+#menu a {
+  color: var(--text-secondary) !important;
+  transition: color 0.3s ease;
+}
+
+#menu a:hover {
+  color: var(--accent-primary) !important;
+}
+
+/* === TYPOGRAPHY === */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-primary) !important;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Accent text in headings */
+h1 .accent,
+h2 .accent,
+h3 .accent {
+  color: var(--accent-primary);
+}
+
+p {
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* === LINKS === */
+a {
+  color: var(--accent-primary);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: var(--accent-hover);
+}
+
+/* === BUTTONS & CTAs === */
+.cta-button,
+a[href*="calendly"] {
+  display: inline-block;
+  background-color: var(--accent-primary);
+  color: var(--bg-primary) !important;
+  font-weight: 700;
+  padding: 0.75rem 2rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.cta-button:hover,
+a[href*="calendly"]:hover {
+  background-color: var(--accent-hover);
+  transform: scale(1.05);
+  box-shadow: var(--shadow-lg);
+}
+
+.cta-secondary {
+  background-color: var(--accent-green);
+  color: var(--text-primary) !important;
+}
+
+.cta-secondary:hover {
+  background-color: #4ade80;
+}
+
+/* === SECTIONS === */
+.section-dark {
+  background-color: var(--bg-secondary);
+  padding: 5rem 1.5rem;
+}
+
+.section-light {
+  background-color: var(--bg-primary);
+  padding: 5rem 1.5rem;
+}
+
+/* === CARDS === */
+.card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 0.75rem;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  border-color: var(--accent-primary);
+  box-shadow: var(--shadow-lg);
+}
+
+.card h3 {
+  color: var(--text-primary);
+  margin-top: 0;
+}
+
+.card ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.card ul li {
+  padding-left: 1.5rem;
+  position: relative;
+  margin-bottom: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.card ul li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--accent-primary);
+  font-weight: bold;
+}
+
+/* Featured card (for ARCHITECTE) */
+.card-featured {
+  border-color: var(--accent-primary);
+  border-width: 2px;
+  position: relative;
+}
+
+.card-featured::before {
+  content: "RECOMMANDÉ";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--accent-primary);
+  color: var(--bg-primary);
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* === LISTS === */
+ul {
+  color: var(--text-secondary);
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* === HORIZONTAL RULES === */
+hr {
+  border-color: var(--border-color);
+  margin: 3rem 0;
+}
+
+/* === CODE BLOCKS === */
+code {
+  background-color: var(--bg-secondary);
+  color: var(--accent-primary);
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.9em;
+}
+
+pre {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* === TABLES === */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+  background-color: var(--bg-card);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+th {
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  font-weight: 600;
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 2px solid var(--accent-primary);
+}
+
+td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-secondary);
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:hover {
+  background-color: rgba(251, 191, 36, 0.05);
+}
+
+/* === FOOTER === */
+footer {
+  background-color: var(--bg-primary);
+  border-top: 1px solid var(--border-color);
+  padding: 3rem 1.5rem;
+  color: var(--text-tertiary);
+  text-align: center;
+}
+
+footer a {
+  color: var(--text-secondary);
+}
+
+footer a:hover {
+  color: var(--accent-primary);
+}
+
+/* === HOMEPAGE SPECIFIC === */
+.home-intro {
+  padding: 5rem 1.5rem;
+  text-align: center;
+}
+
+.home-intro h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.home-intro p {
+  font-size: 1.25rem;
+  color: var(--text-tertiary);
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+/* Problem/Solution sections */
+.problem-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: var(--bg-card);
+  border-left: 3px solid var(--accent-primary);
+  border-radius: 0.25rem;
+}
+
+.problem-icon {
+  color: var(--accent-primary);
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .home-intro h1 {
+    font-size: 2rem;
+  }
+
+  .section-dark,
+  .section-light {
+    padding: 3rem 1rem;
+  }
+}
+
+/* === DARK MODE TOGGLE (disabled) === */
+/* Force dark mode always */
+.theme-toggle {
+  display: none !important;
+}
+
+/* === SCROLLBAR === */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-primary);
+}
+
+/* === ANIMATIONS === */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* === UTILITY CLASSES === */
+.text-accent {
+  color: var(--accent-primary) !important;
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
