@@ -7,6 +7,10 @@ theme = "PaperMod"
   description = "Direction technologique fractionnée pour PME québécoises ambitieuses"
   author = "Christian Boulet"
 
+  # Logo and Favicon
+  label.icon = "/images/logo.png"
+  label.iconHeight = 35
+
   # PaperMod settings
   ShowReadingTime = false
   ShowShareButtons = false
